@@ -320,6 +320,7 @@ footer p {
 .dos p{
   margin-right: 10px;
   margin-left: 0px;
+  text-align: left;
 }
 
 .menu .box-container {
