@@ -288,14 +288,14 @@ footer p {/*FOOTER*/
 .dos h3{
   margin-top: 0px;
   text-align: left;
-  padding-left: 1rem;
+  padding-left: 0rem;
   padding-right: 1rem;
 }
 
 .dos p{
   margin-right: 20px;
   text-align: left;
-  padding-left: 1rem;
+  padding-left: 0rem;
   padding-right: 1rem;
 }
 
